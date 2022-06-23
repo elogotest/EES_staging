@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dropdown</name>
+   <tag></tag>
+   <elementGuidId>99fa30e8-efc7-48ef-aef4-d88d390d6c16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;reactRoot&quot;]/div[1]/div/div/div/div[1]/div/div/div[2]/div/div[3]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;reactRoot&quot;]/div[1]/div/div/div/div[1]/div/div/div[2]/div/div[3]/button</value>
+   </webElementProperties>
+</WebElementEntity>

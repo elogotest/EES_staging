@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>IlkSayfa</name>
+   <tag></tag>
+   <elementGuidId>feb18a4b-39ef-4633-b9bf-da6eb6927c54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.dxWeb_pFirst_LECustomTheme</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.dxWeb_pFirst_LECustomTheme</value>
+   </webElementProperties>
+</WebElementEntity>

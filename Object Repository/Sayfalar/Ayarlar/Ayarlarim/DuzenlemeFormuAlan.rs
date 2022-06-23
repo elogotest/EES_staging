@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DuzenlemeFormuAlan</name>
+   <tag></tag>
+   <elementGuidId>751fea15-57e9-41cd-8931-0fbe8c9ee79b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.dxflCaption_LECustomTheme</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.dxflCaption_LECustomTheme</value>
+   </webElementProperties>
+</WebElementEntity>

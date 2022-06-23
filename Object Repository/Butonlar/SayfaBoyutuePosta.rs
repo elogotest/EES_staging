@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SayfaBoyutuePosta</name>
+   <tag></tag>
+   <elementGuidId>75456e84-8d5f-4a5b-b72c-b093fefadcfb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;GridViewMails_DXPagerBottom_PSB&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;GridViewMails_DXPagerBottom_PSB&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

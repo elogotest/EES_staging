@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>eArsivInternet</name>
+   <tag></tag>
+   <elementGuidId>aa41b7f6-d8aa-431e-b21b-c1cf5633e649</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;reactRoot&quot;]/div/div/div[1]/div/div[1]/div[3]/form/div/div[9]/div/div[2]/div/div/label/span/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;reactRoot&quot;]/div/div/div[1]/div/div[1]/div[3]/form/div/div[9]/div/div[2]/div/div/label/span/input</value>
+   </webElementProperties>
+</WebElementEntity>

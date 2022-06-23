@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MenuBar</name>
+   <tag></tag>
+   <elementGuidId>9179b19d-18dd-4d9d-ada0-2bc863ffa947</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//logo-elements-menu-bar[@ref_element = 'Object Repository/YeniEkranlar/ShadowKirilimlari/ReactRoot' and @ref_element_is_shadow_root = 'true']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>logo-elements-menu-bar</value>
+      <webElementGuid>e4b0e970-4387-47cb-9b47-4b53a9ebaf89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/YeniEkranlar/ShadowKirilimlari/ReactRoot</value>
+      <webElementGuid>d6569a8d-eb7e-4a9f-ac2d-a80e3ce5369f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3dc09679-7fa3-4251-80b2-7a05d19791b7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

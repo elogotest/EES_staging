@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>teslimAdresiAliciTablosu</name>
+   <tag></tag>
+   <elementGuidId>55f037e0-d355-403e-b656-ba183c6f7ecc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='reactRoot']/div/div/div/div/div[9]/div/div/div/div[2]/div/div[2]/div/div/div[2]/div[3]/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/div/div/div/div/table/tbody/tr[2]/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='reactRoot']/div/div/div/div/div[9]/div/div/div/div[2]/div/div[2]/div/div/div[2]/div[3]/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/div/div/div/div/table/tbody/tr[2]/td[3]</value>
+   </webElementProperties>
+</WebElementEntity>

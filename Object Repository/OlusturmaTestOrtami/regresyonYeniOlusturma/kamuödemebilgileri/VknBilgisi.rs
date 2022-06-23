@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>VknBilgisi</name>
+   <tag></tag>
+   <elementGuidId>3afda8f3-8954-4fda-a4f1-05995677c4d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;reactRoot&quot;]/div[2]/div/div[1]/div/div[8]/div/div/div/div[2]/div/form/div/div[3]/div/div[2]/div[1]/div/div/div[1]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;reactRoot&quot;]/div[2]/div/div[1]/div/div[8]/div/div/div/div[2]/div/form/div/div[3]/div/div[2]/div[1]/div/div/div[1]/input</value>
+   </webElementProperties>
+</WebElementEntity>

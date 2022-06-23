@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TablodakiVeri</name>
+   <tag></tag>
+   <elementGuidId>944e9400-1866-4afa-94f8-6587d4ed82c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>vaadin-checkbox</value>
+      <webElementGuid>a2b2747a-e982-40e9-a199-cf7f607ec568</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/YeniEkranlar/ShadowKirilimlari/ReactRoot</value>
+      <webElementGuid>3faa9bbc-4009-4314-bbcf-7e7b047c9aac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>089f3fa7-10e5-441f-ab12-a53191bd17cb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

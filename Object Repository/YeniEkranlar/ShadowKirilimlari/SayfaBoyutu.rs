@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SayfaBoyutu</name>
+   <tag></tag>
+   <elementGuidId>4622e896-d2f5-42c7-845f-73682a8da74a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>paper-dropdown-menu</value>
+      <webElementGuid>a0343b2e-8698-4f9f-8915-a74c5987672e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/YeniEkranlar/ShadowKirilimlari/SayfaNumarasiveBoyutu</value>
+      <webElementGuid>201537be-d004-482e-ae90-1249e00493eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>18341c3a-e600-4f7f-97b5-8424006b544f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

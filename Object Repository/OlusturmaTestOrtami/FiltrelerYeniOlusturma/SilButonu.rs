@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SilButonu</name>
+   <tag></tag>
+   <elementGuidId>176d938d-e51f-4bf7-a94a-89cbb09f5f05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;reactRoot&quot;]/div[2]/div/div/ul/li[1]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;reactRoot&quot;]/div[2]/div/div/ul/li[1]/span[2]</value>
+   </webElementProperties>
+</WebElementEntity>

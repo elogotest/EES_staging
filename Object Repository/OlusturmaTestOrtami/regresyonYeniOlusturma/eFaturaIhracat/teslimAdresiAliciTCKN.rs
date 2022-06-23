@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>teslimAdresiAliciTCKN</name>
+   <tag></tag>
+   <elementGuidId>5b456f8c-88bb-44e5-ba9d-a81455db660f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;reactRoot&quot;]/div[2]/div/div[1]/div/div[9]/div/div/div/div[2]/div/div[2]/div/div/div[2]/div[3]/div/div[2]/div/div[2]/div[2]/div/div/div[1]/div/div/div[2]/span/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;reactRoot&quot;]/div[2]/div/div[1]/div/div[9]/div/div/div/div[2]/div/div[2]/div/div/div[2]/div[3]/div/div[2]/div/div[2]/div[2]/div/div/div[1]/div/div/div[2]/span/input</value>
+   </webElementProperties>
+</WebElementEntity>

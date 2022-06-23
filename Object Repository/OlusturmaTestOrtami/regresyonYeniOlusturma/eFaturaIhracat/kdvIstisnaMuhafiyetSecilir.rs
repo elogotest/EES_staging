@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>kdvIstisnaMuhafiyetSecilir</name>
+   <tag></tag>
+   <elementGuidId>2c9b9e91-85a3-414b-b92f-b9f790641451</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//tr[@id='react-select-4-option-26']/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//tr[@id='react-select-4-option-26']/td</value>
+   </webElementProperties>
+</WebElementEntity>

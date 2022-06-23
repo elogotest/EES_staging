@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DuzenlemeFormuBaslik</name>
+   <tag></tag>
+   <elementGuidId>5a9e2c8f-59b7-494f-9dcd-34391f45c295</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.dxpc-headerText.dx-vam</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.dxpc-headerText.dx-vam</value>
+   </webElementProperties>
+</WebElementEntity>

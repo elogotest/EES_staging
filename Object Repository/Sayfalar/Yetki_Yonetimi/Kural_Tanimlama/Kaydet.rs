@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Kaydet</name>
+   <tag></tag>
+   <elementGuidId>ee48df34-c592-4278-8af7-72942a944d61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.fa.fa-floppy-o.fa-lg.text-success</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.fa.fa-floppy-o.fa-lg.text-success</value>
+   </webElementProperties>
+</WebElementEntity>

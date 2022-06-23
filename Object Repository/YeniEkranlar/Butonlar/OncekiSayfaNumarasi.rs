@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>OncekiSayfaNumarasi</name>
+   <tag></tag>
+   <elementGuidId>3bb57f3a-da00-482f-80a0-6f0727f5fd9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'pre-button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pre-button</value>
+      <webElementGuid>520c2092-0e0a-4cf3-a947-2e6070df50dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/YeniEkranlar/ShadowKirilimlari/SayfaNumarasiveBoyutu</value>
+      <webElementGuid>67e046f8-1cdf-4889-9588-409a80d60acf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2b50f049-1935-4784-aaee-accbfb93ad76</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

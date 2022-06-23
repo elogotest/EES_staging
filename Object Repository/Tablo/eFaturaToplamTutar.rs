@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>eFaturaToplamTutar</name>
+   <tag></tag>
+   <elementGuidId>3d3aa576-add4-4765-a8f9-1a103f8d3d75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;GridViewPostboxOutgoingInvoice_tccell0_6&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;GridViewPostboxOutgoingInvoice_tccell0_6&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

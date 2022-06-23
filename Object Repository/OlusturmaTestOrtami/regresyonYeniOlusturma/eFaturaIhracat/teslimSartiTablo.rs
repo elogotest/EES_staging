@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>teslimSartiTablo</name>
+   <tag></tag>
+   <elementGuidId>3951ffc2-ff63-4a48-9cab-9346790d5a9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='reactRoot']/div/div/div/div/div[9]/div/div/div/div[2]/div/div[2]/div/div/div[2]/div/div/div/div/div[2]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='reactRoot']/div/div/div/div/div[9]/div/div/div/div[2]/div/div[2]/div/div/div[2]/div/div/div/div/div[2]/div/div/div/div/div</value>
+   </webElementProperties>
+</WebElementEntity>

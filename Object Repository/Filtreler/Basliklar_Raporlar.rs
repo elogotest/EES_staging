@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Basliklar_Raporlar</name>
+   <tag></tag>
+   <elementGuidId>2d77e3c7-dc10-47cf-896b-78b39278a398</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.control-label.col-sm-4.col-sm-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.control-label.col-sm-4.col-sm-4</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FiltreBasligi</name>
+   <tag></tag>
+   <elementGuidId>9e9c04f4-3575-4166-b737-75d5d1eb2b93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.ant-col.ant-col-24.ant-form-item-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.ant-col.ant-col-24.ant-form-item-label</value>
+   </webElementProperties>
+</WebElementEntity>

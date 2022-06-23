@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SayfaBoyutuDropdownRaporlar</name>
+   <tag></tag>
+   <elementGuidId>be69f8cd-f656-4f0a-96eb-3c9cb7c1be10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>#GridViewCumulativeCreditReport_DXPagerBottom_PSB</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>#GridViewCumulativeCreditReport_DXPagerBottom_PSB</value>
+   </webElementProperties>
+</WebElementEntity>

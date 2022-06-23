@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MuafiyetUrunler</name>
+   <tag></tag>
+   <elementGuidId>b18157ce-959f-4b4f-abfb-11d8e465a680</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>TotalKDVExemptionReasonCode_DDD_L_LBT</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#TotalKDVExemptionReasonCode_DDD_L_LBT >tbody > tr>td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>TotalKDVExemptionReasonCode_DDD_L_LBT</value>
+   </webElementProperties>
+</WebElementEntity>

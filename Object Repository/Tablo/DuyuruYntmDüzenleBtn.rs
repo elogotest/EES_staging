@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DuyuruYntmDüzenleBtn</name>
+   <tag></tag>
+   <elementGuidId>d34315dc-9762-4002-8485-e96eb0d329a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;GridViewNotification_tccell3_0&quot;]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;GridViewNotification_tccell3_0&quot;]/a[2]</value>
+   </webElementProperties>
+</WebElementEntity>

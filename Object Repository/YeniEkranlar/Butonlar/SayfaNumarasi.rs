@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SayfaNumarasi</name>
+   <tag></tag>
+   <elementGuidId>983b24d0-f566-4838-aa30-5ea67a5c0a7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@role = 'button' and @ref_element = 'Object Repository/YeniEkranlar/ShadowKirilimlari/SayfaNumarasiveBoyutu' and @ref_element_is_shadow_root = 'true']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d967c508-2c00-48fa-91f2-d1a846107671</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/YeniEkranlar/ShadowKirilimlari/SayfaNumarasiveBoyutu</value>
+      <webElementGuid>1a7fbc42-f5c9-47ae-9839-13ef1471f16d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>01c997b4-6337-4b57-a0b9-b6f0e7d54134</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

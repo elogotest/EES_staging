@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Ekle</name>
+   <tag></tag>
+   <elementGuidId>6d9949c4-1196-4b55-8a33-f23d94767de0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.fa.fa-plus.fa-lg.text-muted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.fa.fa-plus.fa-lg.text-muted</value>
+   </webElementProperties>
+</WebElementEntity>

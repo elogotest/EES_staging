@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TablodakiVeri</name>
+   <tag></tag>
+   <elementGuidId>7ba4a76f-e9af-45d3-9d78-b374338749a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;reactRoot&quot;]/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/table/tbody/tr[2]/td[1]/label/span/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;reactRoot&quot;]/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/table/tbody/tr[2]/td[1]/label/span/input</value>
+   </webElementProperties>
+</WebElementEntity>

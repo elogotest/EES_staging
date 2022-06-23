@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EttnBilgisi</name>
+   <tag></tag>
+   <elementGuidId>37df67d1-6a73-4664-a44f-a442c267f7d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;reactRoot&quot;]/div/div/div[1]/div/div[1]/div[3]/form/div/div[1]/div/div[2]/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;reactRoot&quot;]/div/div/div[1]/div/div[1]/div[3]/form/div/div[1]/div/div[2]/div/div/input</value>
+   </webElementProperties>
+</WebElementEntity>

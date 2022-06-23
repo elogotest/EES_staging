@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DepartmanEklenir</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>240fe924-f9d1-401c-9ba7-7d9fa3e9c5bc</testCaseGuid>
+   <variable>
+      <defaultValue>'Belgeleri Departmana Atayabilir'</defaultValue>
+      <description></description>
+      <id>44c861e1-87f7-4353-b5b8-77bd7cdf5873</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

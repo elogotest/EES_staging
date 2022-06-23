@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SayfaBoyutuSmsRaporlar</name>
+   <tag></tag>
+   <elementGuidId>00728037-dfe1-4272-a859-7f2c69106dc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;GridViewEArchiveMails_DXPagerBottom_PSB&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;GridViewEArchiveMails_DXPagerBottom_PSB&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

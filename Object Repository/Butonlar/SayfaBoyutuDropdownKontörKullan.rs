@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SayfaBoyutuDropdownKontörKullan</name>
+   <tag></tag>
+   <elementGuidId>ae1374b5-a659-4775-8d56-0e23b1916312</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;GridViewCreditUsageReport_DXPagerBottom_PSB&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;GridViewCreditUsageReport_DXPagerBottom_PSB&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

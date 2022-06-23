@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>butonlar</name>
+   <tag></tag>
+   <elementGuidId>58b5fb54-9ffc-48d4-84eb-23ffb4dbd55a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.col-sm-7.paddingMarginRLC.text-right>input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.col-sm-7.paddingMarginRLC.text-right>input</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>filtreButonları</name>
+   <tag></tag>
+   <elementGuidId>4bfa5121-329f-4ab2-8b0c-8179263a4702</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@role = 'button' and @ref_element = 'Object Repository/YeniEkranlar/Filtreler/ReactRoot' and @ref_element_is_shadow_root = 'true']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6f8b16eb-ae20-48cb-95c1-0bcb738c4a0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/YeniEkranlar/ShadowKirilimlari/ReactRoot</value>
+      <webElementGuid>c88f8b9c-351b-4fbe-ac71-a6b3af14d9b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f682bf3a-f5ac-4025-9ff3-33166df8d139</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

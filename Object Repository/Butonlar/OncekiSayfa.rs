@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>OncekiSayfa</name>
+   <tag></tag>
+   <elementGuidId>2329d39f-d5e2-4845-81bf-fb95fe9db025</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.dxWeb_pPrev_LECustomTheme</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.dxWeb_pPrev_LECustomTheme</value>
+   </webElementProperties>
+</WebElementEntity>

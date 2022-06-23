@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sablonlar</name>
+   <tag></tag>
+   <elementGuidId>4c2fe96c-9774-47e3-8b2b-fbfde90a6777</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.dxgvDataRow_LECustomTheme>td>b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.dxgvDataRow_LECustomTheme>td>b</value>
+   </webElementProperties>
+</WebElementEntity>

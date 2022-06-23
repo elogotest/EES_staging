@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TablonunBtnlari</name>
+   <tag></tag>
+   <elementGuidId>155293db-8464-484f-8468-918c9e2e8007</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;reactRoot&quot;]/div[1]/div/div/div/div[2]/div/div/div/div/div/div/div/div/table/tbody/tr[2]/td[2]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;reactRoot&quot;]/div[1]/div/div/div/div[2]/div/div/div/div/div/div/div/div/table/tbody/tr[2]/td[2]/button[2]</value>
+   </webElementProperties>
+</WebElementEntity>
